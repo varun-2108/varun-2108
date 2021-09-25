@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <p>Languages, tools and frameworks I've work with:</p>
 <br>
+<p align="center">
 <img src="icons/python-original.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
 <img src="icons/django-plain.svg" alt="Django" height="30" style="vertical-align:top; margin:4px"> 
 <img src="icons/git-plain.svg" alt="Git" height="30" style="vertical-align:top; margin:4px">
