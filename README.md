@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="icons/amazonwebservices-original.svg" alt="AWS" height="30" style="vertical-align:top; margin:4px">
 <img src="icons/postgresql-plain.svg" alt="Postgres" height="30" style="vertical-align:top; margin:4px">
 <img src="icons/linux-original.svg" alt="Linux" height="30" style="vertical-align:top; margin:4px">
-<img src="icons/redis.png" alt="Redis" height="30" style="vertical-align:top; margin:4px">
-<img src="icons/redis.png" alt="Redis" height="30" style="vertical-align:top; margin:4px">
+<img src="icons/redis-83994.png" alt="Redis" height="30" style="vertical-align:top; margin:4px">
+<img src="icons/redis-83994.png" alt="Redis" height="30" style="vertical-align:top; margin:4px">
 </p>
 <br>
