@@ -19,15 +19,10 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
 <img src="icons/python-original.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
-<img src="icons/javascript-original.svg" alt="Javascript" height="30" style="vertical-align:top; margin:4px">
-<img src="icons/cplusplus-original.svg" alt="C++" height="30" style="vertical-align:top; margin:4px">
 <img src="icons/django-plain.svg" alt="Django" height="30" style="vertical-align:top; margin:4px"> 
 <img src="icons/git-plain.svg" alt="Git" height="30" style="vertical-align:top; margin:4px">
 <img src="icons/amazonwebservices-original.svg" alt="AWS" height="30" style="vertical-align:top; margin:4px">
 <img src="icons/postgresql-plain.svg" alt="Postgres" height="30" style="vertical-align:top; margin:4px">
-<img src="icons/nodejs-plain.svg" alt="NodeJS" height="30" style="vertical-align:top; margin:4px">
-<img src="icons/electron-original.svg" alt="Electron" height="30" style="vertical-align:top; margin:4px">
-<img src="icons/angularjs-plain.svg" alt="Angular" height="30" style="vertical-align:top; margin:4px">
-
+  <img src="icons/linux-original.svg" alt="Linux" height="30" style="vertical-align:top; margin:4px">
 </p>
 <br>
