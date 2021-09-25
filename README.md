@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi :raising_hand: Welcome to my GitHub! :trophy:
 
 <p align="center" style="box-shadow:0 0 10px 2px rgba(0,0,0,0.06);">
-<img class="text-center" src="https://media4.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="300" height="225" />
+<img class="text-center" src="https://media4.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="500" height="300" />
 </p>
 <br>
 
