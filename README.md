@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 
 # Hi :raising_hand: Welcome to my GitHub! :trophy:
 
+<p align="center" style="box-shadow:0 0 10px 2px rgba(0,0,0,0.06);">
+<img class="text-center" src="https://media.giphy.com/media/ui9twqrw0GSA0/giphy.gif" width="300" height="225" />
+</p>
+<br>
+
+
 <p>Languages, tools and frameworks I've work with:</p>
 <br>
 <p align="center">
